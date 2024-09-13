@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## What I'm working on
+
+agv-project, where I build a web app to control a vehicle
+
+## Currently learning
+
+Python, OpenCV, Tailwind
+
+## Major at university
+
+Major in Automation and Control Engineering at Hanoi University of Science and Technology (HUST) in Vietnam
