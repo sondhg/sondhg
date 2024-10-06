@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sondhg/sondhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## What I'm working on
+# What I'm working on
 
-agv-project, where I build a web app to control a vehicle
+A web app to control a vehicle
 
-## Currently learning
-
-Python, OpenCV, Tailwind
-
-## Major at university
-
-Major in Automation and Control Engineering at Hanoi University of Science and Technology (HUST) in Vietnam
+- [agv-project](https://github.com/sondhg/agv-project): frontend (Currently developing on branch "tailwind". You should clone that branch instead of "master")
+- [my-django-server](https://github.com/sondhg/my-django-server): backend (For now, this is just a server only for login, register and logout API actions. Ir doesn't have as many functionalities as Hoang Anh's server.)
