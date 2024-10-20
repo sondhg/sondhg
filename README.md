@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 A web app to control a vehicle
 
-- [agv-project](https://github.com/sondhg/agv-project): frontend (Currently developing on branch "tailwind". You should clone that branch instead of "master")
-- [my-django-server](https://github.com/sondhg/my-django-server): backend (For now, this is just a server only for login, register and logout API actions. It doesn't have as many functionalities as Hoang Anh's server.)
+- [agv-frontend](https://github.com/sondhg/agv-frontend)
+- [my-django-server](https://github.com/sondhg/my-django-server): my temporary backend, doesn't have as many functionalities as Hoang Anh's server.
