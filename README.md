@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 # What I'm working on
 
-A web app to control a vehicle
+A React + Django + PostgreSQL web app to control AGVs
 
-- [agv-frontend-typescript](https://github.com/sondhg/agv-frontend-typescript)
-- [my-django-server](https://github.com/sondhg/my-django-server): my temporary backend, doesn't have as many functionalities as Hoang Anh's server.
+- [agv-fullstack](https://github.com/sondhg/agv-fullstack)
