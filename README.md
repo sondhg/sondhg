@@ -12,8 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# What I'm working on
-
-A React + Django + PostgreSQL web app to control AGVs
-
-- [agv-fullstack](https://github.com/sondhg/agv-fullstack)
